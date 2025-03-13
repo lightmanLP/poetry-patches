@@ -9,7 +9,7 @@ repository = "https://github.com/csirmazbendeguz/poetry-patches"
 keywords = ["poetry"]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 poetry = "^1.8.2"
 requests = "^2.31.0"
 whatthepatch = "^1.0.5"
